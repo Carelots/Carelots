@@ -7,10 +7,11 @@ I'm a Little quite dump student based in Kasetsart University. i'm new to code b
 ## 🔧 Technologies & Tools
 
 [Add a list of technologies and tools you are familiar with. For example:]
-- Programming Languages: Python, html, css
+- Programming Languages: Python, html, css, Java script, Java, C#, C++, SLQ
+- Tools: Vscode, Vue JS, DBeaver, SQLyog, React, Docker, Netbean
   
 ## 🌱 Currently Learning
-Python
+Java script
 
 ## 📫 Contact Me
 
